@@ -1,7 +1,7 @@
 # comed-charging-costs
  A rudimentary model to calculate EV charging costs through ComEd
 
-See https://www.reddit.com/r/teslamotors/comments/jr2j53/some_data_and_thoughts_on_opportunistic_charging/
+See https://ayradyss.wordpress.com/2020/11/09/comeed-electrical-vehicle-charging-costs/
 
 ComEd hourly pricing: https://www.comed.com/WaysToSave/ForYourHome/Pages/HourlyPricing.aspx
 
